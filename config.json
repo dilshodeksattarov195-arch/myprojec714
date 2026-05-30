@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuelete",
+        "uuid": 5929056,
+        "checksum": "n3fxrc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
